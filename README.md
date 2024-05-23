@@ -21,7 +21,7 @@ This project is a microservice for fetching and storing hourly weather data for 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/weather_service.git
+    git clone https://github.com/vaaxooo/weather_service.git
     cd weather_service
     ```
 
