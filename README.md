@@ -52,7 +52,7 @@ This project is a microservice for fetching and storing hourly weather data for 
     X_TOKEN=d1f5e6c8a9b3f4d7e2a1b9c4d5e6f7a8
     ```
 
-5. Run the database migrations:
+5. Run cron:
 
     ```bash
     php cron.php
